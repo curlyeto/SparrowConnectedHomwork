@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901289923148",
+    "project_id": "sparrowhomework",
+    "storage_bucket": "sparrowhomework.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901289923148:android:466e92625a61506ee91ae9",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901289923148-k9gp0a4uvqvpfaoa0p988586d44j4u8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-KlGNjqeOjuAUrDai9IV2h179Ntooh3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901289923148-k9gp0a4uvqvpfaoa0p988586d44j4u8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
